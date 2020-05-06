@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MnNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43140722
+_cell_length_b   5.43140721
+_cell_length_c   5.43140721
+_cell_angle_alpha   54.86086509
+_cell_angle_beta   54.86086504
+_cell_angle_gamma   54.86086512
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNiO3
+_chemical_formula_sum   'Mn2 Ni2 O6'
+_cell_volume   99.74301290
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.771731  0.440990  0.050933  1
+  O  O1  1  0.440990  0.050933  0.771733  1
+  O  O2  1  0.050933  0.771733  0.440989  1
+  O  O3  1  0.228268  0.559011  0.949067  1
+  O  O4  1  0.949066  0.228268  0.559011  1
+  O  O5  1  0.559011  0.949068  0.228266  1
+  Mn  Mn6  1  0.843218  0.843217  0.843219  1
+  Mn  Mn7  1  0.156782  0.156781  0.156782  1
+  Ni  Ni8  1  0.645881  0.645881  0.645880  1
+  Ni  Ni9  1  0.354120  0.354120  0.354119  1

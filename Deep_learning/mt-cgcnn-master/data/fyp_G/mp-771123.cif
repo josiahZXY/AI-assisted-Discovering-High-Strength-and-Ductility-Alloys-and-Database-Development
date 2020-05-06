@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_ScFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84662966
+_cell_length_b   5.84659481
+_cell_length_c   11.58363630
+_cell_angle_alpha   90.00884096
+_cell_angle_beta   90.00835600
+_cell_angle_gamma   119.99610838
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFeO3
+_chemical_formula_sum   'Sc6 Fe6 O18'
+_cell_volume   342.92657123
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.333424  0.667146  0.234044  1
+  Sc  Sc1  1  0.999948  0.999853  0.276701  1
+  Sc  Sc2  1  0.999607  0.999622  0.777536  1
+  Sc  Sc3  1  0.333324  0.666825  0.735576  1
+  Sc  Sc4  1  0.666677  0.333253  0.735551  1
+  Sc  Sc5  1  0.667232  0.333471  0.234030  1
+  Fe  Fe6  1  -0.000045  0.665772  0.502536  1
+  Fe  Fe7  1  0.000681  0.333331  0.002779  1
+  Fe  Fe8  1  0.333385  0.333610  0.502820  1
+  Fe  Fe9  1  0.665399  0.665564  0.002839  1
+  Fe  Fe10  1  0.333736  0.000843  0.002735  1
+  Fe  Fe11  1  0.666173  0.000161  0.502507  1
+  O  O12  1  0.999704  0.696575  0.673957  1
+  O  O13  1  0.000435  0.634647  0.335185  1
+  O  O14  1  0.001438  0.366017  0.836538  1
+  O  O15  1  0.001351  0.301801  0.172541  1
+  O  O16  1  0.333079  0.667727  0.029864  1
+  O  O17  1  0.999216  0.998929  0.472506  1
+  O  O18  1  0.998804  0.998506  0.972662  1
+  O  O19  1  0.333487  0.667521  0.529998  1
+  O  O20  1  0.301866  0.302120  0.673252  1
+  O  O21  1  0.366326  0.366608  0.336252  1
+  O  O22  1  0.302316  0.001525  0.172597  1
+  O  O23  1  0.632519  0.632811  0.836498  1
+  O  O24  1  0.696521  0.696665  0.172713  1
+  O  O25  1  0.366236  0.001724  0.836404  1
+  O  O26  1  0.667067  0.333321  0.530006  1
+  O  O27  1  0.667843  0.333436  0.029853  1
+  O  O28  1  0.634956  0.000680  0.335249  1
+  O  O29  1  0.697094  0.999935  0.673868  1

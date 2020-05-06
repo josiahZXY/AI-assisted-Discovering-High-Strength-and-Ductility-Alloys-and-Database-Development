@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TiCoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53301526
+_cell_length_b   5.53301525
+_cell_length_c   5.53301525
+_cell_angle_alpha   54.94958439
+_cell_angle_beta   54.94958438
+_cell_angle_gamma   54.94958432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCoO3
+_chemical_formula_sum   'Ti2 Co2 O6'
+_cell_volume   105.69866227
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.561927  0.949694  0.226768  1
+  O  O1  1  0.226768  0.561927  0.949694  1
+  O  O2  1  0.949694  0.226768  0.561927  1
+  O  O3  1  0.438073  0.050306  0.773232  1
+  O  O4  1  0.773232  0.438073  0.050306  1
+  O  O5  1  0.050306  0.773232  0.438073  1
+  Ti  Ti6  1  0.855859  0.855859  0.855859  1
+  Ti  Ti7  1  0.144141  0.144141  0.144141  1
+  Co  Co8  1  0.645045  0.645045  0.645045  1
+  Co  Co9  1  0.354955  0.354955  0.354955  1

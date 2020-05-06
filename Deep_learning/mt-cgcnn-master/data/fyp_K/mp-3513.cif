@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Dy2Al3Si2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04844045
+_cell_length_b   5.47626805
+_cell_length_c   6.62186390
+_cell_angle_alpha   100.18266890
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.69310732
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Al3Si2
+_chemical_formula_sum   'Dy2 Al3 Si2'
+_cell_volume   133.91977936
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.694480  0.388961  0.866508  1
+  Al  Al1  1  0.000000  0.000000  0.000000  1
+  Al  Al2  1  0.305520  0.611039  0.133492  1
+  Si  Si3  1  0.906960  0.813920  0.359991  1
+  Si  Si4  1  0.093040  0.186080  0.640009  1
+  Dy  Dy5  1  0.380499  0.760997  0.677818  1
+  Dy  Dy6  1  0.619501  0.239003  0.322182  1

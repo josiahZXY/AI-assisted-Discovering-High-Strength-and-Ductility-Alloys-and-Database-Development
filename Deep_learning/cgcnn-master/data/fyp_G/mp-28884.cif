@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Cs(FeAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79466854
+_cell_length_b   3.79466826
+_cell_length_c   8.14663783
+_cell_angle_alpha   103.46503615
+_cell_angle_beta   103.46504424
+_cell_angle_gamma   90.00196978
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs(FeAs)2
+_chemical_formula_sum   'Cs1 Fe2 As2'
+_cell_volume   110.76445656
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.000000  0.000000  0.000000  1
+  Fe  Fe1  1  0.749970  0.250030  0.500000  1
+  Fe  Fe2  1  0.250030  0.749970  0.500000  1
+  As  As3  1  0.339433  0.339433  0.678753  1
+  As  As4  1  0.660567  0.660567  0.321247  1

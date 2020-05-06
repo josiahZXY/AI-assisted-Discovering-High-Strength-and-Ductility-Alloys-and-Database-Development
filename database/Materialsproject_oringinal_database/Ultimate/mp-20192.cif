@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfMnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65527445
+_cell_length_b   6.52822544
+_cell_length_c   7.60690645
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMnSi
+_chemical_formula_sum   'Hf4 Mn4 Si4'
+_cell_volume   181.51946783
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.250000  0.273617  0.877623  1
+  Si  Si1  1  0.750000  0.726383  0.122377  1
+  Si  Si2  1  0.250000  0.773617  0.622377  1
+  Si  Si3  1  0.750000  0.226383  0.377623  1
+  Mn  Mn4  1  0.750000  0.858739  0.434554  1
+  Mn  Mn5  1  0.250000  0.141261  0.565446  1
+  Mn  Mn6  1  0.750000  0.358739  0.065446  1
+  Mn  Mn7  1  0.250000  0.641261  0.934554  1
+  Hf  Hf8  1  0.250000  0.527343  0.320871  1
+  Hf  Hf9  1  0.750000  0.472657  0.679129  1
+  Hf  Hf10  1  0.250000  0.027343  0.179129  1
+  Hf  Hf11  1  0.750000  0.972657  0.820871  1

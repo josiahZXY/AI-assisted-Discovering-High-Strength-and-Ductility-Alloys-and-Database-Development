@@ -1,0 +1,16 @@
+2020-03-03 23:52:58 INFO     Problem type is: regression
+2020-03-03 23:52:58 INFO     Fitting MatPipe pipeline to data.
+2020-03-03 23:52:58 INFO     AutoFeaturizer: Starting fitting.
+2020-03-03 23:52:58 INFO     AutoFeaturizer: Compositions detected as strings. Attempting conversion to Composition objects...
+2020-03-03 23:53:03 INFO     AutoFeaturizer: Guessing oxidation states of compositions, as they were not present in input.
+2020-03-03 23:53:09 INFO     AutoFeaturizer: Will remove YangSolidSolution because it's fraction passing the precheck for this dataset (0.625) was less than the minimum (0.9)
+2020-03-03 23:53:09 INFO     AutoFeaturizer: Will remove Miedema because it's fraction passing the precheck for this dataset (0.625) was less than the minimum (0.9)
+2020-03-03 23:53:09 INFO     AutoFeaturizer: Featurizer type structure not in the dataframe to be fitted. Skipping...
+2020-03-03 23:53:09 INFO     AutoFeaturizer: Featurizer type bandstructure not in the dataframe to be fitted. Skipping...
+2020-03-03 23:53:09 INFO     AutoFeaturizer: Featurizer type dos not in the dataframe to be fitted. Skipping...
+2020-03-03 23:53:09 INFO     AutoFeaturizer: Finished fitting.
+2020-03-03 23:53:09 INFO     AutoFeaturizer: Starting transforming.
+2020-03-03 23:53:09 INFO     AutoFeaturizer: Featurizing with ElementProperty.
+2020-03-03 23:53:16 INFO     AutoFeaturizer: Featurizing with OxidationStates.
+2020-03-03 23:53:22 INFO     AutoFeaturizer: Featurizing with ElectronAffinity.
+2020-03-03 23:53:29 INFO     AutoFeaturizer: Featurizing with IonProperty.

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Mg2TaWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29965580
+_cell_length_b   5.67122397
+_cell_length_c   7.76252474
+_cell_angle_alpha   95.31509581
+_cell_angle_beta   133.06400870
+_cell_angle_gamma   117.85480773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2TaWO6
+_chemical_formula_sum   'Mg2 Ta1 W1 O6'
+_cell_volume   116.13210675
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.998455  0.561308  0.209673  1
+  Mg  Mg1  1  0.998239  0.570192  0.705071  1
+  Ta  Ta2  1  0.998513  0.980169  0.500189  1
+  W  W3  1  0.998387  0.978838  0.000751  1
+  O  O4  1  0.280377  0.089891  0.404218  1
+  O  O5  1  0.708874  0.796525  0.595356  1
+  O  O6  1  0.701709  0.500106  0.298696  1
+  O  O7  1  0.585061  0.086661  0.884910  1
+  O  O8  1  0.352615  0.808147  0.122289  1
+  O  O9  1  0.362388  0.453918  0.768454  1

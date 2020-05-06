@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3PaF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52105431
+_cell_length_b   5.52106304
+_cell_length_c   6.75112435
+_cell_angle_alpha   114.13644011
+_cell_angle_beta   114.13651078
+_cell_angle_gamma   90.01222445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3PaF8
+_chemical_formula_sum   'Na3 Pa1 F8'
+_cell_volume   167.87984985
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000000  0.000000  0.000000  1
+  Na  Na1  1  0.500000  0.500000  0.000000  1
+  Na  Na2  1  0.249990  0.750010  0.500000  1
+  Na  Na3  1  0.750011  0.249990  0.500000  1
+  F  F4  1  0.349236  0.349235  0.233254  1
+  F  F5  1  0.884068  0.349175  0.233221  1
+  F  F6  1  0.349175  0.884068  0.233221  1
+  F  F7  1  0.115932  0.650825  0.766779  1
+  F  F8  1  0.650825  0.115932  0.766779  1
+  F  F9  1  0.115903  0.115899  0.766721  1
+  F  F10  1  0.650764  0.650765  0.766746  1
+  F  F11  1  0.884097  0.884101  0.233279  1

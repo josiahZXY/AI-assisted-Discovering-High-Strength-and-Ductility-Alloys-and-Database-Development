@@ -1,0 +1,180 @@
+Length of dataset:  8033
+2020-03-13 11:16:05.289249
+Cuda enabled:  False
+{'root_dir': 'data/sample/', 'save_dir': 'data/sample/results/0/', 'disable_cuda': False, 'workers': 0, 'epochs': 30, 'start_epoch': 0, 'batch_size': 256, 'lr': 0.01, 'lr_milestones': [200, 400, 600, 800], 'momentum': 0.9, 'weight_decay': 0, 'print_freq': 10, 'resume': '', 'train_size': 4819, 'val_size': 1606, 'test_size': 1608, 'optimizer': 'Adam', 'atom_fea_len': 64, 'h_fea_len': 32, 'n_conv': 1, 'n_hp': 1, 'scheduler': 'MultiStepLR', 'metric': 'mae', 'seed': 887, 'weights': None, 'dropout': 0, 'cuda': False}
+Loading datasets...
+Predicting  1  properties!!
+Epoch: [0][0/19]	Time 4.520 (4.520)	Data 3.498 (3.498)	Loss 1.2386 (1.2386)	ERR 116.047 (116.047)
+Epoch: [0][10/19]	Time 4.830 (4.983)	Data 3.684 (3.918)	Loss 0.5138 (0.8034)	ERR 66.198 (83.051)
+Training Error: 75.349  Loss: 0.698
+Test: [0/7]	Time 4.829 (4.829)	Loss 0.4811 (0.4811)	ERR 66.642 (66.642)
+ * ERR 68.882 LOSS 0.566
+Saving best parameters...
+Epoch: [1][0/19]	Time 0.995 (0.995)	Data 0.022 (0.022)	Loss 0.4701 (0.4701)	ERR 50.858 (50.858)
+Epoch: [1][10/19]	Time 0.921 (1.035)	Data 0.026 (0.020)	Loss 0.3794 (0.4927)	ERR 60.048 (57.808)
+Training Error: 55.809  Loss: 0.459
+Test: [0/7]	Time 0.227 (0.227)	Loss 0.4176 (0.4176)	ERR 58.915 (58.915)
+ * ERR 59.738 LOSS 0.468
+Saving best parameters...
+Epoch: [2][0/19]	Time 1.032 (1.032)	Data 0.027 (0.027)	Loss 0.5680 (0.5680)	ERR 57.808 (57.808)
+Epoch: [2][10/19]	Time 1.166 (1.091)	Data 0.026 (0.022)	Loss 0.2847 (0.4003)	ERR 46.782 (51.501)
+Training Error: 51.679  Loss: 0.419
+Test: [0/7]	Time 0.236 (0.236)	Loss 0.4555 (0.4555)	ERR 50.207 (50.207)
+ * ERR 47.624 LOSS 0.378
+Saving best parameters...
+Epoch: [3][0/19]	Time 1.188 (1.188)	Data 0.023 (0.023)	Loss 0.3321 (0.3321)	ERR 43.297 (43.297)
+Epoch: [3][10/19]	Time 1.296 (1.248)	Data 0.020 (0.023)	Loss 0.4542 (0.4450)	ERR 54.688 (48.976)
+Training Error: 48.086  Loss: 0.395
+Test: [0/7]	Time 0.224 (0.224)	Loss 0.3414 (0.3414)	ERR 46.722 (46.722)
+ * ERR 46.555 LOSS 0.371
+Saving best parameters...
+Epoch: [4][0/19]	Time 1.031 (1.031)	Data 0.019 (0.019)	Loss 0.5088 (0.5088)	ERR 52.537 (52.537)
+Epoch: [4][10/19]	Time 1.293 (1.226)	Data 0.037 (0.025)	Loss 0.4234 (0.3542)	ERR 44.429 (44.578)
+Training Error: 46.108  Loss: 0.372
+Test: [0/7]	Time 0.236 (0.236)	Loss 0.4631 (0.4631)	ERR 49.804 (49.804)
+ * ERR 44.428 LOSS 0.347
+Saving best parameters...
+Epoch: [5][0/19]	Time 1.289 (1.289)	Data 0.022 (0.022)	Loss 0.4922 (0.4922)	ERR 50.153 (50.153)
+Epoch: [5][10/19]	Time 1.050 (1.102)	Data 0.023 (0.024)	Loss 0.3460 (0.3441)	ERR 51.088 (44.155)
+Training Error: 44.914  Loss: 0.366
+Test: [0/7]	Time 0.317 (0.317)	Loss 0.2164 (0.2164)	ERR 40.907 (40.907)
+ * ERR 42.622 LOSS 0.328
+Saving best parameters...
+Epoch: [6][0/19]	Time 1.168 (1.168)	Data 0.029 (0.029)	Loss 0.5345 (0.5345)	ERR 50.087 (50.087)
+Epoch: [6][10/19]	Time 1.246 (1.182)	Data 0.017 (0.021)	Loss 0.4276 (0.3991)	ERR 59.762 (50.411)
+Training Error: 48.446  Loss: 0.377
+Test: [0/7]	Time 0.263 (0.263)	Loss 0.1987 (0.1987)	ERR 39.182 (39.182)
+ * ERR 44.442 LOSS 0.337
+Epoch: [7][0/19]	Time 1.155 (1.155)	Data 0.027 (0.027)	Loss 0.3292 (0.3292)	ERR 41.543 (41.543)
+Epoch: [7][10/19]	Time 1.084 (1.066)	Data 0.021 (0.020)	Loss 0.2521 (0.3385)	ERR 38.540 (42.262)
+Training Error: 42.018  Loss: 0.328
+Test: [0/7]	Time 0.253 (0.253)	Loss 0.3914 (0.3914)	ERR 40.770 (40.770)
+ * ERR 38.844 LOSS 0.285
+Saving best parameters...
+Epoch: [8][0/19]	Time 1.257 (1.257)	Data 0.029 (0.029)	Loss 0.3833 (0.3833)	ERR 46.939 (46.939)
+Epoch: [8][10/19]	Time 1.301 (1.271)	Data 0.038 (0.025)	Loss 0.2384 (0.2620)	ERR 38.400 (39.803)
+Training Error: 40.984  Loss: 0.292
+Test: [0/7]	Time 0.237 (0.237)	Loss 0.2887 (0.2887)	ERR 45.202 (45.202)
+ * ERR 42.443 LOSS 0.275
+Epoch: [9][0/19]	Time 1.110 (1.110)	Data 0.039 (0.039)	Loss 0.2713 (0.2713)	ERR 46.716 (46.716)
+Epoch: [9][10/19]	Time 1.168 (1.227)	Data 0.016 (0.026)	Loss 0.3366 (0.2933)	ERR 45.549 (44.902)
+Training Error: 42.547  Loss: 0.283
+Test: [0/7]	Time 0.286 (0.286)	Loss 0.2888 (0.2888)	ERR 42.992 (42.992)
+ * ERR 37.882 LOSS 0.218
+Saving best parameters...
+Epoch: [10][0/19]	Time 1.105 (1.105)	Data 0.022 (0.022)	Loss 0.2337 (0.2337)	ERR 36.925 (36.925)
+Epoch: [10][10/19]	Time 1.283 (1.235)	Data 0.017 (0.023)	Loss 0.2989 (0.2470)	ERR 39.157 (39.098)
+Training Error: 38.918  Loss: 0.242
+Test: [0/7]	Time 0.265 (0.265)	Loss 0.1887 (0.1887)	ERR 37.569 (37.569)
+ * ERR 37.595 LOSS 0.206
+Saving best parameters...
+Epoch: [11][0/19]	Time 1.114 (1.114)	Data 0.022 (0.022)	Loss 0.1939 (0.1939)	ERR 34.181 (34.181)
+Epoch: [11][10/19]	Time 1.127 (1.087)	Data 0.020 (0.021)	Loss 0.1747 (0.2437)	ERR 39.187 (40.535)
+Training Error: 40.879  Loss: 0.260
+Test: [0/7]	Time 0.242 (0.242)	Loss 0.3783 (0.3783)	ERR 41.101 (41.101)
+ * ERR 35.756 LOSS 0.217
+Saving best parameters...
+Epoch: [12][0/19]	Time 1.020 (1.020)	Data 0.026 (0.026)	Loss 0.4817 (0.4817)	ERR 47.478 (47.478)
+Epoch: [12][10/19]	Time 1.099 (1.078)	Data 0.018 (0.021)	Loss 0.1578 (0.2401)	ERR 34.396 (38.624)
+Training Error: 38.202  Loss: 0.238
+Test: [0/7]	Time 0.248 (0.248)	Loss 0.2068 (0.2068)	ERR 35.144 (35.144)
+ * ERR 36.217 LOSS 0.207
+Epoch: [13][0/19]	Time 1.109 (1.109)	Data 0.018 (0.018)	Loss 0.1918 (0.1918)	ERR 36.093 (36.093)
+Epoch: [13][10/19]	Time 1.214 (1.219)	Data 0.022 (0.024)	Loss 0.2362 (0.2042)	ERR 38.368 (36.844)
+Training Error: 37.862  Loss: 0.226
+Test: [0/7]	Time 0.272 (0.272)	Loss 0.1561 (0.1561)	ERR 35.165 (35.165)
+ * ERR 35.053 LOSS 0.188
+Saving best parameters...
+Epoch: [14][0/19]	Time 1.258 (1.258)	Data 0.026 (0.026)	Loss 0.1130 (0.1130)	ERR 31.135 (31.135)
+Epoch: [14][10/19]	Time 1.121 (1.164)	Data 0.017 (0.021)	Loss 0.1300 (0.1954)	ERR 33.336 (35.520)
+Training Error: 35.954  Loss: 0.197
+Test: [0/7]	Time 0.214 (0.214)	Loss 0.2992 (0.2992)	ERR 36.190 (36.190)
+ * ERR 33.946 LOSS 0.177
+Saving best parameters...
+Epoch: [15][0/19]	Time 1.053 (1.053)	Data 0.021 (0.021)	Loss 0.2485 (0.2485)	ERR 37.104 (37.104)
+Epoch: [15][10/19]	Time 1.221 (1.179)	Data 0.034 (0.026)	Loss 0.2014 (0.1873)	ERR 34.760 (34.444)
+Training Error: 35.199  Loss: 0.207
+Test: [0/7]	Time 0.239 (0.239)	Loss 0.2901 (0.2901)	ERR 36.767 (36.767)
+ * ERR 34.615 LOSS 0.211
+Epoch: [16][0/19]	Time 1.250 (1.250)	Data 0.029 (0.029)	Loss 0.1321 (0.1321)	ERR 32.524 (32.524)
+Epoch: [16][10/19]	Time 1.323 (1.243)	Data 0.017 (0.027)	Loss 0.2135 (0.2027)	ERR 36.460 (36.228)
+Training Error: 36.133  Loss: 0.192
+Test: [0/7]	Time 0.233 (0.233)	Loss 0.1738 (0.1738)	ERR 32.168 (32.168)
+ * ERR 32.718 LOSS 0.186
+Saving best parameters...
+Epoch: [17][0/19]	Time 1.301 (1.301)	Data 0.023 (0.023)	Loss 0.2296 (0.2296)	ERR 37.603 (37.603)
+Epoch: [17][10/19]	Time 1.224 (1.215)	Data 0.025 (0.023)	Loss 0.1409 (0.1905)	ERR 32.744 (35.775)
+Training Error: 35.110  Loss: 0.178
+Test: [0/7]	Time 0.251 (0.251)	Loss 0.2508 (0.2508)	ERR 34.397 (34.397)
+ * ERR 32.121 LOSS 0.168
+Saving best parameters...
+Epoch: [18][0/19]	Time 1.197 (1.197)	Data 0.034 (0.034)	Loss 0.1246 (0.1246)	ERR 30.928 (30.928)
+Epoch: [18][10/19]	Time 1.212 (1.171)	Data 0.024 (0.025)	Loss 0.2155 (0.1787)	ERR 38.032 (33.924)
+Training Error: 33.727  Loss: 0.166
+Test: [0/7]	Time 0.283 (0.283)	Loss 0.3022 (0.3022)	ERR 35.271 (35.271)
+ * ERR 32.478 LOSS 0.178
+Epoch: [19][0/19]	Time 1.389 (1.389)	Data 0.026 (0.026)	Loss 0.1227 (0.1227)	ERR 29.896 (29.896)
+Epoch: [19][10/19]	Time 1.147 (1.297)	Data 0.025 (0.025)	Loss 0.2689 (0.1672)	ERR 41.402 (33.337)
+Training Error: 34.199  Loss: 0.174
+Test: [0/7]	Time 0.257 (0.257)	Loss 0.2882 (0.2882)	ERR 34.880 (34.880)
+ * ERR 32.326 LOSS 0.191
+Epoch: [20][0/19]	Time 1.038 (1.038)	Data 0.024 (0.024)	Loss 0.1071 (0.1071)	ERR 27.866 (27.866)
+Epoch: [20][10/19]	Time 1.337 (1.226)	Data 0.023 (0.023)	Loss 0.1214 (0.1639)	ERR 32.512 (33.383)
+Training Error: 34.515  Loss: 0.181
+Test: [0/7]	Time 0.218 (0.218)	Loss 0.1550 (0.1550)	ERR 34.550 (34.550)
+ * ERR 36.060 LOSS 0.188
+Epoch: [21][0/19]	Time 0.975 (0.975)	Data 0.019 (0.019)	Loss 0.1911 (0.1911)	ERR 33.057 (33.057)
+Epoch: [21][10/19]	Time 1.240 (1.100)	Data 0.025 (0.021)	Loss 0.1109 (0.1485)	ERR 28.024 (31.751)
+Training Error: 31.958  Loss: 0.157
+Test: [0/7]	Time 0.254 (0.254)	Loss 0.1179 (0.1179)	ERR 27.299 (27.299)
+ * ERR 29.711 LOSS 0.161
+Saving best parameters...
+Epoch: [22][0/19]	Time 1.116 (1.116)	Data 0.030 (0.030)	Loss 0.1241 (0.1241)	ERR 30.318 (30.318)
+Epoch: [22][10/19]	Time 1.208 (1.212)	Data 0.025 (0.024)	Loss 0.2568 (0.1431)	ERR 33.798 (30.286)
+Training Error: 30.733  Loss: 0.147
+Test: [0/7]	Time 0.243 (0.243)	Loss 0.2295 (0.2295)	ERR 33.799 (33.799)
+ * ERR 30.924 LOSS 0.172
+Epoch: [23][0/19]	Time 1.100 (1.100)	Data 0.024 (0.024)	Loss 0.1676 (0.1676)	ERR 32.008 (32.008)
+Epoch: [23][10/19]	Time 1.360 (1.193)	Data 0.019 (0.029)	Loss 0.2190 (0.1504)	ERR 37.158 (31.442)
+Training Error: 32.923  Loss: 0.159
+Test: [0/7]	Time 0.256 (0.256)	Loss 0.2472 (0.2472)	ERR 31.055 (31.055)
+ * ERR 31.488 LOSS 0.173
+Epoch: [24][0/19]	Time 1.041 (1.041)	Data 0.032 (0.032)	Loss 0.0836 (0.0836)	ERR 29.067 (29.067)
+Epoch: [24][10/19]	Time 1.229 (1.210)	Data 0.033 (0.026)	Loss 0.1361 (0.1437)	ERR 31.562 (31.670)
+Training Error: 31.744  Loss: 0.148
+Test: [0/7]	Time 0.260 (0.260)	Loss 0.3228 (0.3228)	ERR 39.506 (39.506)
+ * ERR 36.691 LOSS 0.185
+Epoch: [25][0/19]	Time 1.150 (1.150)	Data 0.029 (0.029)	Loss 0.1513 (0.1513)	ERR 38.192 (38.192)
+Epoch: [25][10/19]	Time 1.201 (1.236)	Data 0.025 (0.023)	Loss 0.0958 (0.1418)	ERR 32.975 (32.789)
+Training Error: 31.913  Loss: 0.135
+Test: [0/7]	Time 0.219 (0.219)	Loss 0.1454 (0.1454)	ERR 28.437 (28.437)
+ * ERR 30.047 LOSS 0.169
+Epoch: [26][0/19]	Time 1.046 (1.046)	Data 0.024 (0.024)	Loss 0.0923 (0.0923)	ERR 27.512 (27.512)
+Epoch: [26][10/19]	Time 1.413 (1.272)	Data 0.031 (0.026)	Loss 0.1295 (0.1180)	ERR 33.117 (29.020)
+Training Error: 29.698  Loss: 0.128
+Test: [0/7]	Time 0.258 (0.258)	Loss 0.0869 (0.0869)	ERR 28.997 (28.997)
+ * ERR 30.315 LOSS 0.171
+Epoch: [27][0/19]	Time 1.344 (1.344)	Data 0.018 (0.018)	Loss 0.1065 (0.1065)	ERR 29.959 (29.959)
+Epoch: [27][10/19]	Time 1.766 (1.308)	Data 0.030 (0.026)	Loss 0.1699 (0.1553)	ERR 34.072 (33.355)
+Training Error: 32.440  Loss: 0.142
+Test: [0/7]	Time 0.249 (0.249)	Loss 0.0880 (0.0880)	ERR 27.760 (27.760)
+ * ERR 30.472 LOSS 0.171
+Epoch: [28][0/19]	Time 1.105 (1.105)	Data 0.025 (0.025)	Loss 0.1130 (0.1130)	ERR 29.914 (29.914)
+Epoch: [28][10/19]	Time 1.454 (1.206)	Data 0.055 (0.026)	Loss 0.1667 (0.1170)	ERR 32.615 (29.507)
+Training Error: 29.844  Loss: 0.130
+Test: [0/7]	Time 0.247 (0.247)	Loss 0.0990 (0.0990)	ERR 27.984 (27.984)
+ * ERR 30.289 LOSS 0.168
+Epoch: [29][0/19]	Time 1.125 (1.125)	Data 0.032 (0.032)	Loss 0.1712 (0.1712)	ERR 30.605 (30.605)
+Epoch: [29][10/19]	Time 1.062 (1.070)	Data 0.017 (0.023)	Loss 0.0942 (0.1444)	ERR 27.862 (31.506)
+Training Error: 30.977  Loss: 0.135
+Test: [0/7]	Time 0.238 (0.238)	Loss 0.2984 (0.2984)	ERR 33.697 (33.697)
+ * ERR 29.471 LOSS 0.163
+Saving best parameters...
+---------Evaluate Model on Test Set---------------
+Test: [0/7]	Time 5.276 (5.276)	Loss 0.1355 (0.1355)	ERR 27.240 (27.240)
+Test error per property: 29.437286
+Test loss per property: 0.14692983
+ ** ERR 29.437 LOSS 0.147
+Best Error is:  29.471080780029297
+2020-03-13 11:30:51.535721
+Time taken  886.245512008667

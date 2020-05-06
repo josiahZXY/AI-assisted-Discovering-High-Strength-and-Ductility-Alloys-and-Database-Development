@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThSiTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15641270
+_cell_length_b   4.15641270
+_cell_length_c   9.74106858
+_cell_angle_alpha   102.31843859
+_cell_angle_beta   102.31843859
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThSiTe
+_chemical_formula_sum   'Th2 Si2 Te2'
+_cell_volume   160.44205728
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.119715  0.119715  0.239430  1
+  Th  Th1  1  0.880285  0.880285  0.760570  1
+  Si  Si2  1  0.000000  0.500000  0.000000  1
+  Si  Si3  1  0.500000  0.000000  0.000000  1
+  Te  Te4  1  0.311133  0.311133  0.622266  1
+  Te  Te5  1  0.688867  0.688867  0.377734  1

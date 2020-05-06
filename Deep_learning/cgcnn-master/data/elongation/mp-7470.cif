@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbCuO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88795842
+_cell_length_b   7.39268019
+_cell_length_c   7.39268020
+_cell_angle_alpha   80.87515103
+_cell_angle_beta   66.53249223
+_cell_angle_gamma   66.53249229
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCuO
+_chemical_formula_sum   'Rb4 Cu4 O4'
+_cell_volume   270.75604196
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.478347  0.771957  0.771957  1
+  O  O1  1  0.749696  0.228043  0.771957  1
+  O  O2  1  0.749696  0.771957  0.228043  1
+  O  O3  1  0.022261  0.228043  0.228043  1
+  Cu  Cu4  1  0.885543  0.228915  0.500000  1
+  Cu  Cu5  1  0.614457  0.771085  0.500000  1
+  Cu  Cu6  1  0.614457  0.500000  0.771085  1
+  Cu  Cu7  1  0.885543  0.500000  0.228915  1
+  Rb  Rb8  1  0.554127  0.195876  0.195876  1
+  Rb  Rb9  1  0.249997  0.804124  0.195876  1
+  Rb  Rb10  1  0.945879  0.804124  0.804124  1
+  Rb  Rb11  1  0.249997  0.195876  0.804124  1

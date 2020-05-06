@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiCuO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88962712
+_cell_length_b   6.31255643
+_cell_length_c   6.31255643
+_cell_angle_alpha   84.55343974
+_cell_angle_beta   72.05604677
+_cell_angle_gamma   72.05604671
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCuO
+_chemical_formula_sum   'Li4 Cu4 O4'
+_cell_volume   140.28355996
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.149865  0.350135  0.350135  1
+  Li  Li1  1  0.850135  0.649865  0.649865  1
+  Li  Li2  1  0.500000  0.649865  0.350135  1
+  Li  Li3  1  0.500000  0.350135  0.649865  1
+  O  O4  1  0.000000  0.309292  0.690708  1
+  O  O5  1  0.000000  0.690708  0.309292  1
+  O  O6  1  0.690708  0.309292  0.309292  1
+  O  O7  1  0.309292  0.690708  0.690708  1
+  Cu  Cu8  1  0.841425  0.000000  0.317150  1
+  Cu  Cu9  1  0.158575  0.682850  0.000000  1
+  Cu  Cu10  1  0.841425  0.317150  0.000000  1
+  Cu  Cu11  1  0.158575  0.000000  0.682850  1

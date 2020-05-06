@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ti5Sb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21343784
+_cell_length_b   8.34227063
+_cell_length_c   10.19929007
+_cell_angle_alpha   89.99247718
+_cell_angle_beta   90.00735113
+_cell_angle_gamma   89.95597706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Sb3
+_chemical_formula_sum   'Ti20 Sb12'
+_cell_volume   613.75688409
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.673091  0.749931  0.713427  1
+  Ti  Ti1  1  0.795518  0.936571  0.945310  1
+  Ti  Ti2  1  0.295498  0.063346  0.554746  1
+  Ti  Ti3  1  0.021693  0.750066  0.494875  1
+  Ti  Ti4  1  0.326807  0.250066  0.286572  1
+  Ti  Ti5  1  0.478363  0.749954  0.994844  1
+  Ti  Ti6  1  0.704462  0.563473  0.445322  1
+  Ti  Ti7  1  0.683331  0.249985  0.737512  1
+  Ti  Ti8  1  0.295514  0.436543  0.554763  1
+  Ti  Ti9  1  0.704490  0.936630  0.445342  1
+  Ti  Ti10  1  0.521596  0.250056  0.005152  1
+  Ti  Ti11  1  0.795406  0.563378  0.945278  1
+  Ti  Ti12  1  0.978561  0.249941  0.505193  1
+  Ti  Ti13  1  0.316652  0.750015  0.262390  1
+  Ti  Ti14  1  0.204311  0.063384  0.054698  1
+  Ti  Ti15  1  0.183391  0.750005  0.762474  1
+  Ti  Ti16  1  0.816685  0.249993  0.237580  1
+  Ti  Ti17  1  0.204432  0.436672  0.054729  1
+  Ti  Ti18  1  0.173215  0.249931  0.786553  1
+  Ti  Ti19  1  0.826704  0.750070  0.213383  1
+  Sb  Sb20  1  0.092006  0.749981  0.023659  1
+  Sb  Sb21  1  0.591761  0.249909  0.476272  1
+  Sb  Sb22  1  0.564572  0.508312  0.178477  1
+  Sb  Sb23  1  0.564644  0.991667  0.178509  1
+  Sb  Sb24  1  0.435392  0.491675  0.821548  1
+  Sb  Sb25  1  0.064656  0.008326  0.321566  1
+  Sb  Sb26  1  0.935427  0.991816  0.678426  1
+  Sb  Sb27  1  0.408115  0.750085  0.523690  1
+  Sb  Sb28  1  0.908292  0.250028  0.976215  1
+  Sb  Sb29  1  0.064737  0.491596  0.321451  1
+  Sb  Sb30  1  0.935364  0.508266  0.678539  1
+  Sb  Sb31  1  0.435314  0.008330  0.821508  1

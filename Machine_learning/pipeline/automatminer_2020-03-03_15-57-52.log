@@ -1,0 +1,6 @@
+2020-03-03 15:57:54 INFO     Loaded MatPipe from file MatPipe_predict_third_time_Ultimate_from_composition.p.
+2020-03-03 15:57:54 WARNING  Only use this model to make predictions (do not retrain!). Backend was serialzed as only the top model, not the full automl backend. 
+2020-03-03 15:59:21 INFO     Loaded MatPipe from file MatPipe_predict_third_time_Ultimate_from_composition.p.
+2020-03-03 15:59:22 WARNING  Only use this model to make predictions (do not retrain!). Backend was serialzed as only the top model, not the full automl backend. 
+2020-03-03 16:05:12 INFO     Loaded MatPipe from file MatPipe_predict_third_time_Ultimate_from_composition.p.
+2020-03-03 16:05:12 WARNING  Only use this model to make predictions (do not retrain!). Backend was serialzed as only the top model, not the full automl backend. 

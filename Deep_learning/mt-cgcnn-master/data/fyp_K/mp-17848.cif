@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Nb3Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22205330
+_cell_length_b   10.27954669
+_cell_length_c   10.27954669
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3Si
+_chemical_formula_sum   'Nb24 Si8'
+_cell_volume   551.80956872
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.970477  0.544264  0.777790  1
+  Si  Si1  1  0.470477  0.222210  0.044264  1
+  Si  Si2  1  0.470477  0.277790  0.455736  1
+  Si  Si3  1  0.970477  0.955736  0.722210  1
+  Si  Si4  1  0.029523  0.455736  0.222210  1
+  Si  Si5  1  0.529523  0.777790  0.955736  1
+  Si  Si6  1  0.529523  0.722210  0.544264  1
+  Si  Si7  1  0.029523  0.044264  0.277790  1
+  Nb  Nb8  1  0.523342  0.104109  0.265991  1
+  Nb  Nb9  1  0.023342  0.734009  0.604109  1
+  Nb  Nb10  1  0.023342  0.765991  0.895891  1
+  Nb  Nb11  1  0.523342  0.395891  0.234009  1
+  Nb  Nb12  1  0.476658  0.895891  0.734009  1
+  Nb  Nb13  1  0.976658  0.265991  0.395891  1
+  Nb  Nb14  1  0.976658  0.234009  0.104109  1
+  Nb  Nb15  1  0.476658  0.604109  0.765991  1
+  Nb  Nb16  1  0.235826  0.060000  0.536396  1
+  Nb  Nb17  1  0.735826  0.463604  0.560000  1
+  Nb  Nb18  1  0.735826  0.036396  0.940000  1
+  Nb  Nb19  1  0.235826  0.440000  0.963604  1
+  Nb  Nb20  1  0.764174  0.940000  0.463604  1
+  Nb  Nb21  1  0.264174  0.536396  0.440000  1
+  Nb  Nb22  1  0.264174  0.963604  0.060000  1
+  Nb  Nb23  1  0.764174  0.560000  0.036396  1
+  Nb  Nb24  1  0.284030  0.664910  0.152952  1
+  Nb  Nb25  1  0.784030  0.847048  0.164910  1
+  Nb  Nb26  1  0.784030  0.652952  0.335090  1
+  Nb  Nb27  1  0.284030  0.835090  0.347048  1
+  Nb  Nb28  1  0.715970  0.335090  0.847048  1
+  Nb  Nb29  1  0.215970  0.152952  0.835090  1
+  Nb  Nb30  1  0.215970  0.347048  0.664910  1
+  Nb  Nb31  1  0.715970  0.164910  0.652952  1

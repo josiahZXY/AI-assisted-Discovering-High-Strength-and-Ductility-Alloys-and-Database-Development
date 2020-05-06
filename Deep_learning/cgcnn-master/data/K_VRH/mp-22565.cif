@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnSiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82432948
+_cell_length_b   5.99637945
+_cell_length_c   7.25452303
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSiRh
+_chemical_formula_sum   'Mn4 Si4 Rh4'
+_cell_volume   166.36167032
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.250000  0.264108  0.877722  1
+  Si  Si1  1  0.250000  0.764108  0.622278  1
+  Si  Si2  1  0.750000  0.735892  0.122278  1
+  Si  Si3  1  0.750000  0.235892  0.377722  1
+  Mn  Mn4  1  0.750000  0.469626  0.681181  1
+  Mn  Mn5  1  0.250000  0.030374  0.181181  1
+  Mn  Mn6  1  0.750000  0.969626  0.818819  1
+  Mn  Mn7  1  0.250000  0.530374  0.318819  1
+  Rh  Rh8  1  0.250000  0.661755  0.936110  1
+  Rh  Rh9  1  0.250000  0.161755  0.563890  1
+  Rh  Rh10  1  0.750000  0.838245  0.436110  1
+  Rh  Rh11  1  0.750000  0.338245  0.063890  1

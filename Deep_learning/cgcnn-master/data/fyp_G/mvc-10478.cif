@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CaBi4O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79395554
+_cell_length_b   8.89393494
+_cell_length_c   8.43885584
+_cell_angle_alpha   95.48283836
+_cell_angle_beta   90.00222761
+_cell_angle_gamma   89.99672232
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaBi4O9
+_chemical_formula_sum   'Ca2 Bi8 O18'
+_cell_volume   432.87365670
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.236741  0.250086  0.250017  1
+  Ca  Ca1  1  0.763405  0.749993  0.750082  1
+  Bi  Bi2  1  0.689928  0.555670  0.346922  1
+  Bi  Bi3  1  0.244739  0.858835  0.469358  1
+  Bi  Bi4  1  0.755528  0.358889  0.969245  1
+  Bi  Bi5  1  0.310242  0.055748  0.846935  1
+  Bi  Bi6  1  0.689797  0.944271  0.153109  1
+  Bi  Bi7  1  0.755309  0.141178  0.530642  1
+  Bi  Bi8  1  0.310009  0.444283  0.653077  1
+  Bi  Bi9  1  0.244609  0.641102  0.030768  1
+  O  O10  1  0.531119  0.749978  0.250078  1
+  O  O11  1  0.468900  0.250001  0.749892  1
+  O  O12  1  0.906752  0.804394  0.010816  1
+  O  O13  1  0.046728  0.538123  0.811699  1
+  O  O14  1  0.047020  0.961630  0.688542  1
+  O  O15  1  0.906752  0.695399  0.489405  1
+  O  O16  1  0.093357  0.195612  0.989254  1
+  O  O17  1  0.953267  0.461870  0.188336  1
+  O  O18  1  0.953016  0.038426  0.311487  1
+  O  O19  1  0.092995  0.304691  0.510639  1
+  O  O20  1  0.479116  0.056387  0.343688  1
+  O  O21  1  0.591739  0.134352  0.027151  1
+  O  O22  1  0.591363  0.365550  0.472634  1
+  O  O23  1  0.479377  0.443549  0.156306  1
+  O  O24  1  0.520665  0.556498  0.843603  1
+  O  O25  1  0.408375  0.865659  0.972868  1
+  O  O26  1  0.408275  0.634290  0.527109  1
+  O  O27  1  0.520880  0.943537  0.656339  1

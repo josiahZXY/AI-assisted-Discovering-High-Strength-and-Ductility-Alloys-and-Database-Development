@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na2MnN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06695004
+_cell_length_b   4.89633709
+_cell_length_c   10.60565833
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MnN2
+_chemical_formula_sum   'Na8 Mn4 N8'
+_cell_volume   315.04990995
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.576218  0.250000  0.818677  1
+  Na  Na1  1  0.076218  0.250000  0.681323  1
+  Na  Na2  1  0.423782  0.750000  0.181323  1
+  Na  Na3  1  0.923782  0.750000  0.318677  1
+  Na  Na4  1  0.180387  0.250000  0.036210  1
+  Na  Na5  1  0.680387  0.250000  0.463790  1
+  Na  Na6  1  0.819613  0.750000  0.963790  1
+  Na  Na7  1  0.319613  0.750000  0.536210  1
+  Mn  Mn8  1  0.727127  0.250000  0.169710  1
+  Mn  Mn9  1  0.227127  0.250000  0.330290  1
+  Mn  Mn10  1  0.272873  0.750000  0.830290  1
+  Mn  Mn11  1  0.772873  0.750000  0.669710  1
+  N  N12  1  0.457696  0.250000  0.231295  1
+  N  N13  1  0.957696  0.250000  0.268705  1
+  N  N14  1  0.542304  0.750000  0.768705  1
+  N  N15  1  0.042304  0.750000  0.731295  1
+  N  N16  1  0.764932  0.250000  0.018409  1
+  N  N17  1  0.264932  0.250000  0.481590  1
+  N  N18  1  0.235068  0.750000  0.981591  1
+  N  N19  1  0.735068  0.750000  0.518409  1

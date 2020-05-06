@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrMnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67474396
+_cell_length_b   6.61438530
+_cell_length_c   7.68129495
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrMnSi
+_chemical_formula_sum   'Zr4 Mn4 Si4'
+_cell_volume   186.70287954
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.250000  0.272797  0.878395  1
+  Si  Si1  1  0.250000  0.772797  0.621605  1
+  Si  Si2  1  0.750000  0.727203  0.121605  1
+  Si  Si3  1  0.750000  0.227203  0.378395  1
+  Mn  Mn4  1  0.750000  0.361941  0.064609  1
+  Mn  Mn5  1  0.250000  0.138059  0.564609  1
+  Mn  Mn6  1  0.750000  0.861941  0.435391  1
+  Mn  Mn7  1  0.250000  0.638059  0.935391  1
+  Zr  Zr8  1  0.250000  0.527608  0.320773  1
+  Zr  Zr9  1  0.250000  0.027608  0.179227  1
+  Zr  Zr10  1  0.750000  0.972392  0.820773  1
+  Zr  Zr11  1  0.750000  0.472392  0.679227  1

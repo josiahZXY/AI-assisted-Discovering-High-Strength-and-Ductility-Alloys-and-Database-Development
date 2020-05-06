@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93532422
+_cell_length_b   3.93532422
+_cell_length_c   8.00970340
+_cell_angle_alpha   104.22082899
+_cell_angle_beta   104.22082900
+_cell_angle_gamma   89.99999999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YSi2
+_chemical_formula_sum   'Y2 Si4'
+_cell_volume   116.31792141
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.706256  0.956256  0.912513  1
+  Si  Si1  1  0.456256  0.206256  0.412513  1
+  Si  Si2  1  0.543744  0.793744  0.587487  1
+  Si  Si3  1  0.293744  0.043744  0.087487  1
+  Y  Y4  1  0.875000  0.625000  0.250000  1
+  Y  Y5  1  0.125000  0.375000  0.750000  1

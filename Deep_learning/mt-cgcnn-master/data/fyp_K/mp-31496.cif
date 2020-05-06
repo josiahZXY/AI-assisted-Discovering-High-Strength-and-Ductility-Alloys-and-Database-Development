@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li2Sn2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.63174353
+_cell_length_b   4.63174354
+_cell_length_c   10.49179535
+_cell_angle_alpha   102.75201252
+_cell_angle_beta   102.75201254
+_cell_angle_gamma   90.00000005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Sn2Au
+_chemical_formula_sum   'Li4 Sn4 Au2'
+_cell_volume   213.83346165
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.300610  0.550610  0.101219  1
+  Li  Li1  1  0.050610  0.800610  0.601219  1
+  Li  Li2  1  0.699390  0.449390  0.898781  1
+  Li  Li3  1  0.949390  0.199390  0.398781  1
+  Sn  Sn4  1  0.202268  0.952268  0.904536  1
+  Sn  Sn5  1  0.452268  0.702268  0.404536  1
+  Sn  Sn6  1  0.797732  0.047732  0.095464  1
+  Sn  Sn7  1  0.547732  0.297732  0.595464  1
+  Au  Au8  1  0.875000  0.625000  0.250000  1
+  Au  Au9  1  0.125000  0.375000  0.750000  1

@@ -1,0 +1,15 @@
+2020-03-03 11:07:44 INFO     Problem type is: regression
+2020-03-03 11:07:44 INFO     Fitting MatPipe pipeline to data.
+2020-03-03 11:07:44 INFO     AutoFeaturizer: Starting fitting.
+2020-03-03 11:07:44 INFO     AutoFeaturizer: Compositions detected as strings. Attempting conversion to Composition objects...
+2020-03-03 11:07:52 INFO     AutoFeaturizer: Guessing oxidation states of compositions, as they were not present in input.
+2020-03-03 11:08:03 INFO     AutoFeaturizer: Featurizer type structure not in the dataframe to be fitted. Skipping...
+2020-03-03 11:08:03 INFO     AutoFeaturizer: Featurizer type bandstructure not in the dataframe to be fitted. Skipping...
+2020-03-03 11:08:03 INFO     AutoFeaturizer: Featurizer type dos not in the dataframe to be fitted. Skipping...
+2020-03-03 11:08:03 INFO     AutoFeaturizer: Finished fitting.
+2020-03-03 11:08:03 INFO     AutoFeaturizer: Starting transforming.
+2020-03-03 11:08:03 INFO     AutoFeaturizer: Featurizing with ElementProperty.
+2020-03-03 11:08:11 INFO     AutoFeaturizer: Featurizing with OxidationStates.
+2020-03-03 11:08:18 INFO     AutoFeaturizer: Featurizing with ElectronAffinity.
+2020-03-03 11:08:25 INFO     AutoFeaturizer: Featurizing with IonProperty.
+2020-03-03 11:09:04 INFO     AutoFeaturizer: Featurizing with YangSolidSolution.

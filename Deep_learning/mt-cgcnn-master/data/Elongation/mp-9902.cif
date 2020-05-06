@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sc2CoSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95742746
+_cell_length_b   5.32089329
+_cell_length_c   8.52124063
+_cell_angle_alpha   82.54141029
+_cell_angle_beta   76.57280588
+_cell_angle_gamma   68.16862421
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2CoSi2
+_chemical_formula_sum   'Sc4 Co2 Si4'
+_cell_volume   161.82308138
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.012193  0.850650  0.124964  1
+  Si  Si1  1  0.854995  0.720713  0.569298  1
+  Si  Si2  1  0.987807  0.149350  0.875036  1
+  Si  Si3  1  0.145005  0.279287  0.430702  1
+  Sc  Sc4  1  0.684005  0.737478  0.894513  1
+  Sc  Sc5  1  0.499664  0.672398  0.328273  1
+  Sc  Sc6  1  0.315995  0.262522  0.105487  1
+  Sc  Sc7  1  0.500336  0.327602  0.671727  1
+  Co  Co8  1  0.225459  0.923541  0.625541  1
+  Co  Co9  1  0.774541  0.076459  0.374459  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AlHO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31764193
+_cell_length_b   6.32406591
+_cell_length_c   3.73205620
+_cell_angle_alpha   89.89764511
+_cell_angle_beta   89.89509043
+_cell_angle_gamma   26.53034506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlHO2
+_chemical_formula_sum   'Al2 H2 O4'
+_cell_volume   66.60200176
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.674921  0.686411  0.278229  1
+  Al  Al1  1  0.312206  0.321121  0.777782  1
+  H  H2  1  0.011986  0.026871  0.444680  1
+  H  H3  1  0.976120  0.980103  0.944248  1
+  O  O4  1  0.283354  0.292746  0.278579  1
+  O  O5  1  0.703854  0.715003  0.778810  1
+  O  O6  1  0.072479  0.085954  0.266050  1
+  O  O7  1  0.914931  0.921117  0.764008  1
