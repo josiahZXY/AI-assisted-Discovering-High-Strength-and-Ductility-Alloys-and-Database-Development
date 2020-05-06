@@ -1,6 +1,6 @@
 # AI-assisted-Discovering-High-Strength-and-Ductility-Alloys-and-Database-Development
-    请将本文件解压放置在D盘下面
-    Please unzip this file and place it under the D drive
+    请将本文件解压放置在D盘下面,在使用user_interface之前，请先将AI-assisted-Discovering-High-Strength-and-Ductility-Alloys-and-Database-Development\Machine_learning\pipeline\p_files下的两个压缩文件解压至当前目录，否则user_interface功能不全。
+    Please unzip this file and place it under the D drive. Please unzip the two compressed files under AI-assisted-discovering-high-strength-and-ductility-alloys-and-database-development \ Machine_learning \ pipeline \ p_files to the current directory, otherwise the user_interface function will be incomplete.
 
     本文件一共分为4个part，database，deep_learning,machine_learning,user_interface.在使用之前可以先阅读根目录下的论文，以便于获得对该数据集更加清晰的认识。
     This document is divided into 4 parts, database, deep_learning, machine_learning, user_interface. Before using, you can read the papers in the root directory to get a clearer understanding of the data set.
