@@ -1,4 +1,5 @@
 如果想看完整结果的话，请在这里下载论文观看: https://www.researchgate.net/publication/342881088_AI-assisted_Discovering_High_Strength_and_Ductility_Alloys_and_Database_Development.
+喜欢的话请一键三连： star, watch,fork.
 
 作者:张焇烊 2020/4/30
 # AI-assisted-Discovering-High-Strength-and-Ductility-Alloys-and-Database-Development
