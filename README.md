@@ -1,3 +1,6 @@
+如果想看完整结果的话，请在这里下载论文观看: https://www.researchgate.net/publication/342881088_AI-assisted_Discovering_High_Strength_and_Ductility_Alloys_and_Database_Development.
+
+作者:张焇烊 2020/4/30
 # AI-assisted-Discovering-High-Strength-and-Ductility-Alloys-and-Database-Development
     请将本文件解压放置在D盘下面,在使用user_interface之前，请先将AI-assisted-Discovering-High-Strength-and-Ductility-Alloys-and-Database-Development\Machine_learning\pipeline\p_files下的两个压缩文件解压至当前目录，否则user_interface功能不全。
     Please unzip this file and place it under the D drive. Please unzip the two compressed files under AI-assisted-discovering-high-strength-and-ductility-alloys-and-database-development \ Machine_learning \ pipeline \ p_files to the current directory, otherwise the user_interface function will be incomplete.
